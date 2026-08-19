@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    font-family: "Playwrite GB S", cursive;
+}
+input{
+    font-family: "Merienda", cursive;
+}
